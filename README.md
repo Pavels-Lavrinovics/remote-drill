@@ -1,1 +1,2 @@
 # Remote Drill
+Setup complete
